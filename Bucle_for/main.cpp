@@ -10,5 +10,5 @@ int main() {
         suma += i;
     }
     cout << "La suma de los primeros 100 números naturales es: " << suma <<endl;
-    return0;
+    return 0;
 }

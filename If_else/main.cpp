@@ -2,7 +2,7 @@
 using namespace std;
 //Ejercicio#1
 //Escribe un programa que determine si un número ingresado por el usuario es múltiplo de 5 y de
-//7.
+//7..
 
 int main() {
     int numero;

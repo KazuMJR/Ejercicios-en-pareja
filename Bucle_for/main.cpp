@@ -3,19 +3,12 @@
 using namespace std;
 int main() {
 
-    //Escribe un programa que solicite al usuario un número y muestre la tabla de multiplicar de ese
-    //número del 1 al 10.
+    //Escribir un programa que calcule e imprima la suma de los primeros 100 números naturales.
 
-    int numero;
-
-        cout<<"Digita un numero para generar la tabla de multiplicar deseada\n";cin>>numero;
-
-     if(numero>=1){
-    for(int i=1; i<=10; i++){
-        cout<<numero<<" * "<<i<<" = "<<numero*i<<endl;
+    int suma = 0;
+    for (int i = 1; i <= 100; i++) {
+        suma += i;
     }
-         }else{
-         cout<<"Digite numeros positivos"<<endl;
-     }
-    return 0;
+    std::cout << "La suma de los primeros 100 números naturales es: " << suma <<endl;
+    return0;
 }

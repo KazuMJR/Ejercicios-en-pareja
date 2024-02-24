@@ -9,6 +9,6 @@ int main() {
     for (int i = 1; i <= 100; i++) {
         suma += i;
     }
-    std::cout << "La suma de los primeros 100 números naturales es: " << suma <<endl;
+    cout << "La suma de los primeros 100 números naturales es: " << suma <<endl;
     return0;
 }

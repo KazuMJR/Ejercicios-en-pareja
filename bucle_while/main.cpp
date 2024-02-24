@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     //Crea un programa que pida al usuario ingresar números hasta que el número ingresado sea igual
     //a 0.
-
+//Ejercicio#2
     int numero;
 
     cout << "Ingrese un numero (ingrese 0 para salir): "<<endl;

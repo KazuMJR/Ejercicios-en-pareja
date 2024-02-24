@@ -2,7 +2,7 @@
 
 using namespace std;
 int main() {
-
+//Ejercicio#3
     //Escribir un programa que calcule e imprima la suma de los primeros 100 números naturales.
 
     int suma = 0;

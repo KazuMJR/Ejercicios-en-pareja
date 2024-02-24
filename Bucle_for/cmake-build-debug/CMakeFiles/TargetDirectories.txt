@@ -1,0 +1,3 @@
+C:/Users/jasso/Desktop/CLyen C++/Prueba corta #1/Bucle_for/cmake-build-debug/CMakeFiles/Bucle_for.dir
+C:/Users/jasso/Desktop/CLyen C++/Prueba corta #1/Bucle_for/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jasso/Desktop/CLyen C++/Prueba corta #1/Bucle_for/cmake-build-debug/CMakeFiles/rebuild_cache.dir
